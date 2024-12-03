@@ -6,13 +6,13 @@
 
 ## Hi, I'm Shashwat Bajpai! 👋
 
-### Junior Undergraduate @ BITS Pilani | Research Intern at AIISC | Research Assistant at FSIL
+### Senior Undergraduate @ BITS Pilani | Research Intern @ AIISC | Ex-Research Assistant @ FSIL - Georgia Tech
 
 I'm passionate about Artificial Intelligence, Machine Learning, and their applications in real-world scenarios. My work involves exploring diffusion models, data analysis, and developing innovative solutions using cutting-edge tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbajpai1729/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatbajpai1729@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashwat1729.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashwat.bajpai.co.in/)
 
 ---
 
@@ -62,7 +62,8 @@ Here’s a snapshot of the technologies and tools I frequently use:
 I'm always open to discussing research opportunities, potential collaborations, or simply chatting about the latest in technology and AI. Feel free to reach out through any of the following channels:
 
 - **LinkedIn**: [Shashwat Bajpai](https://www.linkedin.com/in/sbajpai1729/)
+- **Twitter/X**: [shashwatb1729](https://x.com/shashwatb1729)
 - **Email**: [shashwatbajpai1729@gmail.com](mailto:shashwatbajpai1729@gmail.com)
-- **Portfolio**: [shashwat1729.netlify.app](https://shashwat1729.netlify.app/)
+- **Portfolio**: [shashwat.bajpai.co.in](https://shashwat.bajpai.co.in/)
 
 Feel free to reach out if you want to discuss AI research, collaborate on a project, or just chat about technology!

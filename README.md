@@ -6,7 +6,7 @@
 
 ## Hi, I'm Shashwat Bajpai! 👋
 
-### Senior Undergraduate @ BITS Pilani | Research Intern @ AIISC | Ex-Research Assistant @ FSIL - Georgia Tech
+### Senior Undergraduate @ BITS Pilani | Research Engineer @ Mercedes-Benz RDI | Research Intern @ AIISC | Ex-Research Assistant @ FSIL - Georgia Tech
 
 I'm passionate about Artificial Intelligence, Machine Learning, and their applications in real-world scenarios. My work involves exploring diffusion models, data analysis, and developing innovative solutions using cutting-edge tools.
 

@@ -11,9 +11,9 @@
 
 ---
 
-Senior Undergraduate @ BITS Pilani. Research Engineer @ Mercedes-Benz RDI. Research Intern @ AIISC. Research Assistant @ FSIL - Georgia Tech.
+BITS Pilani | Mercedes-Benz RDI | AIISC | Georgia Tech | Ministry of Rural Development | Unicloud
 
-Published at CVPR 2026, AAAI 2025, and IJCNLP 2025. My work spans AI watermarking, computer vision, trustworthy machine learning, and automated program repair.
+Published at CVPR 2026, AAAI 2025, and IJCNLP 2025. AI watermarking, computer vision, trustworthy ML, and full-stack engineering.
 
 ## Experience
 
@@ -22,6 +22,8 @@ Published at CVPR 2026, AAAI 2025, and IJCNLP 2025. My work spans AI watermarkin
 | Research Engineer | Mercedes-Benz Research & Development India (MBRDI) |
 | Research Intern | AI Institute of South Carolina (AIISC) |
 | Research Assistant | Formal Systems Lab - Georgia Tech (FSIL) |
+| Software Intern | Ministry of Rural Development, Govt. of India |
+| Software Intern | Unicloud |
 | Senior Undergraduate | BITS Pilani, Pilani Campus |
 
 ## Research

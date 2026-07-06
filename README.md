@@ -1,7 +1,6 @@
 # Shashwat Bajpai
 
 **AI Researcher & Software Engineer**
-BITS Pilani | Mercedes-Benz RDI
 
 <p align="center">
   <a href="https://shashwat.bajpai.co.in/"><img src="https://img.shields.io/badge/Portfolio-shashwat.bajpai.co.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -12,17 +11,24 @@ BITS Pilani | Mercedes-Benz RDI
 
 ---
 
-I build things at the intersection of AI research and real-world engineering. My work spans AI watermarking, computer vision, trustworthy ML, automated program repair, and full-stack systems. Published at CVPR 2026, AAAI 2025, and IJCNLP 2025.
+Senior Undergraduate @ BITS Pilani. Research Engineer @ Mercedes-Benz RDI. Research Intern @ AIISC. Research Assistant @ FSIL - Georgia Tech.
 
-## What I Do
+Published at CVPR 2026, AAAI 2025, and IJCNLP 2025. My work spans AI watermarking, computer vision, trustworthy machine learning, and automated program repair.
 
-- **Research**: AI watermarking, model security, trustworthy machine learning
-- **Engineering**: Full-stack systems, MCP servers, developer tools, automation
-- **Open Source**: Building practical tools that solve real problems
+## Experience
 
-## Currently
+| Role | Organization |
+|------|-------------|
+| Research Engineer | Mercedes-Benz Research & Development India (MBRDI) |
+| Research Intern | AI Institute of South Carolina (AIISC) |
+| Research Assistant | Formal Systems Lab - Georgia Tech (FSIL) |
+| Senior Undergraduate | BITS Pilani, Pilani Campus |
 
-Software Engineer @ Mercedes-Benz RDI | Research Intern @ AIISC | BITS Pilani
+## Research
+
+- **CVPR 2026** - Generative Model Watermarking
+- **AAAI 2025** - Trustworthy AI Systems
+- **IJCNLP 2025** - NLP for Code Understanding
 
 ## GitHub Stats
 
@@ -35,7 +41,7 @@ Software Engineer @ Mercedes-Benz RDI | Research Intern @ AIISC | BITS Pilani
   <img src="https://github-profile-trophy-alpha.vercel.app/?username=Shashwat1729&theme=darkhub&no-frame=true&row=2&column=4" alt="Trophies" />
 </p>
 
-## Reach Out
+## Connect
 
 - Portfolio: [shashwat.bajpai.co.in](https://shashwat.bajpai.co.in/)
 - LinkedIn: [sbajpai1729](https://www.linkedin.com/in/sbajpai1729/)

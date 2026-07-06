@@ -6,7 +6,7 @@
   <a href="https://shashwat.bajpai.co.in/"><img src="https://img.shields.io/badge/Portfolio-shashwat.bajpai.co.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/sbajpai1729/"><img src="https://img.shields.io/badge/LinkedIn-sbajpai1729-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:shashwatbajpai1729@gmail.com"><img src="https://img.shields.io/badge/Email-shashwatbajpai1729@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://scholar.google.com/citations?user=RWqFEzoAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
 ---
@@ -48,4 +48,4 @@ Published at CVPR 2026, AAAI 2025, and IJCNLP 2025. AI watermarking, computer vi
 - Portfolio: [shashwat.bajpai.co.in](https://shashwat.bajpai.co.in/)
 - LinkedIn: [sbajpai1729](https://www.linkedin.com/in/sbajpai1729/)
 - Email: [shashwatbajpai1729@gmail.com](mailto:shashwatbajpai1729@gmail.com)
-- Scholar: [Google Scholar](https://scholar.google.com/citations?user=RWqFEzoAAAAJ)
+- Scholar: [Google Scholar](https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ)

@@ -1,69 +1,79 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Shashwat1729&color=brightgreen) 
+# Shashwat Bajpai
 
----
-
-# Welcome to My GitHub Profile!
-
-## Hi, I'm Shashwat Bajpai! 👋
-
-### Senior Undergraduate @ BITS Pilani | Research Engineer @ Mercedes-Benz RDI | Research Intern @ AIISC | Ex-Research Assistant @ FSIL - Georgia Tech
-
-I'm passionate about Artificial Intelligence, Machine Learning, and their applications in real-world scenarios. My work involves exploring diffusion models, data analysis, and developing innovative solutions using cutting-edge tools.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbajpai1729/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatbajpai1729@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashwat.bajpai.co.in/)
-
----
-
-## 🔧 Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-
-## 🛠️ Technical Skills
-
-Here’s a snapshot of the technologies and tools I frequently use:
-
-- **Programming Languages**: Python, JavaScript, C++
-- **Frameworks**: TensorFlow, PyTorch, React
-- **Tools**: Git, Docker, Selenium
-- **Data Analysis**: Pandas, NumPy, Matplotlib
-- **Machine Learning**: Scikit-Learn, Keras
-
----
-
-## 📊 GitHub Stats
+**AI Researcher & Software Engineer**  
+Senior Undergraduate @ BITS Pilani | Research Engineer @ Mercedes-Benz RDI
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Shashwat1729" alt="Contributions" width="400"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat1729&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shashwat1729&theme=radical" alt="GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashwat1729&show_icons=true&theme=radical&count_private=true" alt="Shashwat's GitHub Stats" width="400"/>
+  <a href="https://shashwat.bajpai.co.in/"><img src="https://img.shields.io/badge/Portfolio-shashwat.bajpai.co.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sbajpai1729/"><img src="https://img.shields.io/badge/LinkedIn-sbajpai1729-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shashwatbajpai1729@gmail.com"><img src="https://img.shields.io/badge/Email-shashwatbajpai1729@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
 ---
 
-## 📫 Get in Touch
+## About
 
-I'm always open to discussing research opportunities, potential collaborations, or simply chatting about the latest in technology and AI. Feel free to reach out through any of the following channels:
+Published at CVPR 2026, AAAI 2025, and IJCNLP 2025. My research spans AI watermarking, computer vision, trustworthy machine learning, and automated program repair. I build things that work at the intersection of research and engineering.
 
-- **LinkedIn**: [Shashwat Bajpai](https://www.linkedin.com/in/sbajpai1729/)
-- **Twitter/X**: [shashwatb1729](https://x.com/shashwatb1729)
-- **Email**: [shashwatbajpai1729@gmail.com](mailto:shashwatbajpai1729@gmail.com)
-- **Portfolio**: [shashwat.bajpai.co.in](https://shashwat.bajpai.co.in/)
+## Currently
 
-Feel free to reach out if you want to discuss AI research, collaborate on a project, or just chat about technology!
+- **Research Engineer** @ Mercedes-Benz RDI (ongoing)
+- **Research Intern** @ AIISC
+- **Research Assistant** @ FSIL - Georgia Tech (past)
+- **Senior Undergraduate** @ BITS Pilani
+
+## Publications
+
+- CVPR 2026 - Generative Model Watermarking
+- AAAI 2025 - Trustworthy AI Systems
+- IJCNLP 2025 - NLP for Code Understanding
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [ESG Hybrid Index](https://github.com/Shashwat1729/esg-hybrid-index) | Multi-factor ESG index integrating sustainability with financial factors |
+| [GCD](https://github.com/Shashwat1729/gcd-aware-attention) | Attention entropy analysis for detecting unreliable LLM predictions |
+| [RAMP](https://github.com/Shashwat1729/ramp-repair) | Automated program repair via ripple analysis and fault localization |
+| [LyricSpot](https://github.com/Shashwat1729/lyricspot) | Sing a lyric, find the song, continue on Spotify |
+| [LyricReel](https://github.com/Shashwat1729/lyricreel) | AI lyric video generator for Shorts/Reels |
+| [CareerCopilot MCP](https://github.com/Shashwat1729/careercopilot-mcp) | AI career intelligence MCP server |
+| [Council AI](https://github.com/Shashwat1729/council-ai) | Multi-agent media production pipeline |
+| [ThoughtSpace](https://github.com/Shashwat1729/thoughtspace) | Spatial conversation platform |
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashwat1729&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat1729&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashwat1729&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect:</i><br>
+  <a href="https://shashwat.bajpai.co.in/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/sbajpai1729/">LinkedIn</a> |
+  <a href="mailto:shashwatbajpai1729@gmail.com">Email</a>
+</p>

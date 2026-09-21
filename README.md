@@ -13,7 +13,7 @@
   <a href="https://orcid.org/0009-0006-7560-9429"><img src="https://img.shields.io/badge/orcid-0009--0006--7560--9429-0f172a?style=flat-square&logo=orcid&logoColor=white" alt="ORCID: 0009-0006-7560-9429"/></a>
 </p>
 
-<sub>BITS Hyderabad ’26 · internships wrapped Jun 2025 · formerly MBRDI · Xpectrum AI · AIISC @ UofSC · FSIL @ Georgia Tech · <a href="mailto:shashwatbajpai1729@gmail.com">shashwatbajpai1729@gmail.com</a></sub>
+<sub>BITS ’26 · internships wrapped Jun 2025 · formerly Mercedes-Benz RDI · Xpectrum AI · AIISC @ UofSC · FSIL @ Georgia Tech · <a href="mailto:shashwatbajpai1729@gmail.com">shashwatbajpai1729@gmail.com</a></sub>
 
 </div>
 
@@ -22,22 +22,6 @@
 Passionate about building AI, ML and technology-driven projects. Continuously learning and exploring new ideas through hands-on development.
 
 <sub>Research on watermarking and trustworthy ML → Systems on FPGA and ZKP → Product on full-stack and Kaggle. Same thread: make provenance attributable, then make it usable.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/>
-
-## Lab note — PECCAVI
-
-**Visual Paraphrase Attack-Safe Watermarking** — CVPR 2026 · Denver  
-*First watermark to survive caption → diffusion re-generation. Non-Melting Points + multi-channel frequency encoding + noisy burnishing · PSNR >30 dB · model-agnostic · first benchmark dataset + open code.*
-
-<p>
-  <a href="https://arxiv.org/abs/2506.22960"><img src="https://img.shields.io/badge/arXiv-2506.22960-0f172a?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv paper 2506.22960"/></a>
-  <a href="https://pragyaai.github.io/PECCAVI/"><img src="https://img.shields.io/badge/project-PECCAVI-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="PECCAVI project page"/></a>
-  <a href="https://cvpr.thecvf.com/virtual/2026/poster/39859"><img src="https://img.shields.io/badge/poster-CVPR_2026-0f172a?style=flat-square" alt="CVPR 2026 poster"/></a>
-  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Dixit_PECCVAI_Overcoming_the_Brittleness_of_AI_Image_Watermarking_Under_Visual_CVPR_2026_paper.pdf"><img src="https://img.shields.io/badge/pdf-openaccess-06B6D4?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="OpenAccess PDF"/></a>
-</p>
-
-<sub>More papers → <a href="https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ">Scholar</a> · <a href="https://aclanthology.org/people/shashwat-bajpai/">ACL</a> · <a href="https://openreview.net/profile?id=~Shashwat_Bajpai1">OpenReview</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/>
 

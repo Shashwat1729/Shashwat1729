@@ -1,51 +1,136 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=168&section=header&text=Shashwat%20Bajpai&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BITS%20Hyderabad%20%E2%80%99%2026&descAlignY=61" width="100%" alt="Shashwat Bajpai — header banner with name and tagline"/>
+
+<p>
+  <a href="https://shashwat.bajpai.co.in"><img src="https://img.shields.io/badge/portfolio-shashwat.bajpai.co.in-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: shashwat.bajpai.co.in"/></a>
+  <a href="https://www.linkedin.com/in/sbajpai1729/"><img src="https://img.shields.io/badge/linkedin-sbajpai1729-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: sbajpai1729"/></a>
+  <a href="https://github.com/Shashwat1729"><img src="https://img.shields.io/badge/github-Shashwat1729-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub: Shashwat1729"/></a>
+  <a href="https://www.kaggle.com/shashwat1729"><img src="https://img.shields.io/badge/kaggle-shashwat1729-06B6D4?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle: shashwat1729"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ"><img src="https://img.shields.io/badge/scholar-citations-0f172a?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar citations"/></a>
+  <a href="https://huggingface.co/Shashwat1729"><img src="https://img.shields.io/badge/huggingface-Shashwat1729-06B6D4?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face: Shashwat1729"/></a>
+  <a href="mailto:shashwatbajpai1729@gmail.com"><img src="https://img.shields.io/badge/email-shashwatbajpai1729@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email: shashwatbajpai1729@gmail.com"/></a>
+  <a href="https://orcid.org/0009-0006-7560-9429"><img src="https://img.shields.io/badge/orcid-0009--0006--7560--9429-0f172a?style=flat-square&logo=orcid&logoColor=white" alt="ORCID: 0009-0006-7560-9429"/></a>
+</p>
+
+<sub>BITS Hyderabad ’26 · internships wrapped Jun 2025 · formerly MBRDI · Xpectrum AI · AIISC @ UofSC · FSIL @ Georgia Tech · <a href="mailto:shashwatbajpai1729@gmail.com">shashwatbajpai1729@gmail.com</a></sub>
+
+</div>
+
 # Shashwat Bajpai
 
-**AI Researcher & Software Engineer**
+Passionate about building AI, ML and technology-driven projects. Continuously learning and exploring new ideas through hands-on development.
 
-<p align="center">
-  <a href="https://shashwat.bajpai.co.in/"><img src="https://img.shields.io/badge/Portfolio-shashwat.bajpai.co.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/sbajpai1729/"><img src="https://img.shields.io/badge/LinkedIn-sbajpai1729-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:shashwatbajpai1729@gmail.com"><img src="https://img.shields.io/badge/Email-shashwatbajpai1729@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<sub>Research on watermarking and trustworthy ML → Systems on FPGA and ZKP → Product on full-stack and Kaggle. Same thread: make provenance attributable, then make it usable.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/>
+
+## Lab note — PECCAVI
+
+**Visual Paraphrase Attack-Safe Watermarking** — CVPR 2026 · Denver  
+*First watermark to survive caption → diffusion re-generation. Non-Melting Points + multi-channel frequency encoding + noisy burnishing · PSNR >30 dB · model-agnostic · first benchmark dataset + open code.*
+
+<p>
+  <a href="https://arxiv.org/abs/2506.22960"><img src="https://img.shields.io/badge/arXiv-2506.22960-0f172a?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv paper 2506.22960"/></a>
+  <a href="https://pragyaai.github.io/PECCAVI/"><img src="https://img.shields.io/badge/project-PECCAVI-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="PECCAVI project page"/></a>
+  <a href="https://cvpr.thecvf.com/virtual/2026/poster/39859"><img src="https://img.shields.io/badge/poster-CVPR_2026-0f172a?style=flat-square" alt="CVPR 2026 poster"/></a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Dixit_PECCVAI_Overcoming_the_Brittleness_of_AI_Image_Watermarking_Under_Visual_CVPR_2026_paper.pdf"><img src="https://img.shields.io/badge/pdf-openaccess-06B6D4?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="OpenAccess PDF"/></a>
 </p>
 
----
+<sub>More papers → <a href="https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ">Scholar</a> · <a href="https://aclanthology.org/people/shashwat-bajpai/">ACL</a> · <a href="https://openreview.net/profile?id=~Shashwat_Bajpai1">OpenReview</a></sub>
 
-BITS Pilani | Mercedes-Benz RDI | AIISC | Georgia Tech | Ministry of Rural Development | Unicloud
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/>
 
-Published at CVPR 2026, AAAI 2025, and IJCNLP 2025. AI watermarking, computer vision, trustworthy ML, and full-stack engineering.
+## Builds — provenance, end to end
 
-## Experience
+**[contract-trap-harness](https://github.com/Shashwat1729/contract-trap-harness)** — verification-gated redlining for SaaS contracts. Clause extraction, playbook risk, evidence-gated findings. *Your newest — the product form of provenance.*  
+<sub><code>python</code> · <code>llm-eval</code></sub> &nbsp; ![stars](https://img.shields.io/github/stars/Shashwat1729/contract-trap-harness?style=flat-square&label=%E2%98%85&color=0f172a&labelColor=0f172a)
 
-| Role | Organization |
-|------|-------------|
-| Research Engineer | Mercedes-Benz Research & Development India (MBRDI) |
-| Research Intern | AI Institute of South Carolina (AIISC) |
-| Research Assistant | Formal Systems Lab - Georgia Tech (FSIL) |
-| Software Intern | Ministry of Rural Development, Govt. of India |
-| Software Intern | Unicloud |
-| Senior Undergraduate | BITS Pilani, Pilani Campus |
+**[evidence-researcher](https://github.com/Shashwat1729/evidence-researcher)** — evidence-first deep research agent. Live search, source eval, claim extraction, contradiction hunting.  
+<sub><code>javascript</code> · <code>gemini</code></sub> &nbsp; ![stars](https://img.shields.io/github/stars/Shashwat1729/evidence-researcher?style=flat-square&label=%E2%98%85&color=0f172a&labelColor=0f172a)
 
-## Research
+**[Peccavi-text](https://github.com/Shashwat1729/Peccavi-text)** — text watermarking companion to PECCAVI (CVPR 2026). Extends NMP idea to language.  
+<sub><code>python</code> · <code>nlp</code> · <code>watermarking</code></sub> &nbsp; ![stars](https://img.shields.io/github/stars/Shashwat1729/Peccavi-text?style=flat-square&label=%E2%98%85&color=0f172a&labelColor=0f172a)
 
-- **CVPR 2026** - Generative Model Watermarking
-- **AAAI 2025** - Trustworthy AI Systems
-- **IJCNLP 2025** - NLP for Code Understanding
+**[Midjouney-Visual-Paraphase](https://github.com/Shashwat1729/Midjouney-Visual-Paraphase)** — automation for visual paraphrase attacks (the attack PECCAVI survives). *Attack → defense story.*  
+<sub><code>python</code> · <code>jupyter</code></sub> &nbsp; ![stars](https://img.shields.io/github/stars/Shashwat1729/Midjouney-Visual-Paraphase?style=flat-square&label=%E2%98%85&color=0f172a&labelColor=0f172a)
 
-## GitHub Stats
+**[Chess-ZynqFPGA](https://github.com/Shashwat1729/Chess-ZynqFPGA)** — playable FPGA chess on ZedBoard. Monte Carlo AI, VGA board, OLED state. *Hardware root of trust.*  
+<sub><code>verilog</code> · <code>c</code> · <code>fpga</code></sub> &nbsp; ![stars](https://img.shields.io/github/stars/Shashwat1729/Chess-ZynqFPGA?style=flat-square&label=%E2%98%85&color=0f172a&labelColor=0f172a)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-xi.vercel.app/api?username=Shashwat1729&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" height="165" />
-  <img src="https://github-readme-stats-eight-xi.vercel.app/api/top-langs/?username=Shashwat1729&layout=compact&theme=dark&hide_border=true" alt="Languages" height="165" />
+**[Voting-System](https://github.com/Shashwat1729/Voting-System)** — blockchain voting with ZKPs. Anonymous yet verifiable. *Attributability without de-anonymization.*  
+<sub><code>python</code> · <code>zkp</code> · <code>solidity</code></sub> &nbsp; ![stars](https://img.shields.io/github/stars/Shashwat1729/Voting-System?style=flat-square&label=%E2%98%85&color=0f172a&labelColor=0f172a)
+
+> **Playground — [Kaggle · shashwat1729](https://www.kaggle.com/shashwat1729)** — notebooks and competitions where I test ideas fast and bring learnings back to research. <sub><code>python</code> · <code>pytorch</code> · <code>eda</code></sub> &nbsp; <a href="https://www.kaggle.com/shashwat1729"><img src="https://img.shields.io/badge/kaggle-notebooks-06B6D4?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle notebooks"/></a>
+
+<sub>More: <a href="https://github.com/Shashwat1729/Detection_Papers">Detection_Papers</a> (curated watermark/detection survey, 3★) · <a href="https://github.com/Shashwat1729/SEC-Edgar_10-k">SEC-Edgar 10-K</a> (LLMs over 10-Ks) · <a href="https://github.com/Shashwat1729/AI-Enhanced-Cybersecurity-Threat-Detection">Cybersecurity Threat Detection</a> (7★, most starred)</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/>
+
+## Papers — compact
+
+- ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-7C3AED?style=flat-square) **PECCAVI: Visual Paraphrase Attack-Safe Watermarking** — Denver — [arXiv](https://arxiv.org/abs/2506.22960) · [Project](https://pragyaai.github.io/PECCAVI/) · [Poster](https://cvpr.thecvf.com/virtual/2026/poster/39859)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-06B6D4?style=flat-square) **The Brittleness of AI Image Watermarking** — Philadelphia — [arXiv](https://arxiv.org/abs/2408.10446)
+- ![IJCNLP 2025](https://img.shields.io/badge/IJCNLP-2025-0f172a?style=flat-square) **Visual Counter Turing Test (VCT²)** — Mumbai — [ACL](https://aclanthology.org/2025.ijcnlp-long.100/)
+- ![AAAI Workshop 2025](https://img.shields.io/badge/AAAI_Workshop-2025-0f172a?style=flat-square) **Defactify 4.0** — unified image & text detection — [Workshop](https://defactify.com/)
+- ![AAAI Workshop 2026](https://img.shields.io/badge/AAAI_Workshop-2026-0f172a?style=flat-square) **Findings of the CTT** — [text](https://arxiv.org/abs/2605.20761) · [image](https://arxiv.org/abs/2605.20787)
+
+## Stack
+
+<p>
+  <img title="Python" src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
+  <img title="PyTorch" src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch"/>
+  <img title="C++" src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
+  <img title="React" src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+  <img title="Solidity" src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity"/>
+</p>
+<p>
+  <sub>Python · PyTorch · C++ · Docker · JavaScript · TypeScript · React · Solidity</sub>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/diffusion-7C3AED?style=flat-square" alt="diffusion"/>
+  <img src="https://img.shields.io/badge/transformers-0f172a?style=flat-square&logo=huggingface&logoColor=white" alt="transformers"/>
+  <img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Verilog-0f172a?style=flat-square" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Kaggle-06B6D4?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </p>
 
+## Timeline — internships wrapped Jun 2025
+
+**Jun 2025** — Research Intern · Mercedes-Benz R&D India  
+**Mar–Jun 2025** — Software Engineer · Xpectrum AI  
+**Sep 2023–Jun 2025** — Research Intern · AIISC, UofSC  
+**May–Sep 2024** — Research Assistant · FSIL, Georgia Tech  
+**May–Jul 2023** — Summer Intern · Ministry of Rural Development, GoI  
+**2021–26** — B.E. ECE & M.Sc. Economics · BITS Pilani Hyderabad
+
+<sub>Focus: watermarking · trustworthy ML · vision · FPGA · ZKP · full-stack</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/>
+
+## Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=Shashwat1729&theme=darkhub&no-frame=true&row=2&column=4" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=Shashwat1729&theme=tokyonight&hide_border=true&border_radius=6" width="495" alt="GitHub streak stats for Shashwat1729 — current and longest contribution streak"/>
+</p>
+<p align="center">
+  <sub>Snake animation appears after you add the <code>Platane/snk</code> workflow — otherwise this section stays clean with no broken image.</sub>
 </p>
 
-## Connect
+<div align="center">
 
-- Portfolio: [shashwat.bajpai.co.in](https://shashwat.bajpai.co.in/)
-- LinkedIn: [sbajpai1729](https://www.linkedin.com/in/sbajpai1729/)
-- Email: [shashwatbajpai1729@gmail.com](mailto:shashwatbajpai1729@gmail.com)
-- Scholar: [Google Scholar](https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ)
+**Let’s build.**
+
+Research → shashwatbajpai1729@gmail.com · Systems/Product → [LinkedIn](https://www.linkedin.com/in/sbajpai1729/) · Quick questions → [X](https://x.com/shashwatb1729) · Notebooks → [Kaggle](https://www.kaggle.com/shashwat1729)
+
+<sub>
+<a href="https://scholar.google.com/citations?hl=en&user=0CBkKGYAAAAJ">Scholar</a> · <a href="https://huggingface.co/Shashwat1729">Hugging Face</a> · <a href="https://openreview.net/profile?id=~Shashwat_Bajpai1">OpenReview</a> · <a href="https://www.semanticscholar.org/author/Shashwat-Bajpai/2316485765">Semantic Scholar</a> · <a href="https://orcid.org/0009-0006-7560-9429">ORCID</a>
+</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=&animation=fadeIn" width="100%" alt="Footer wave — end of profile"/>

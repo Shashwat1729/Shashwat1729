@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=168&section=header&text=Shashwat%20Bajpai&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BITS%20Hyderabad%20%E2%80%99%2026&descAlignY=61" width="100%" alt="Shashwat Bajpai — header banner with name and tagline"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=168&section=header&text=Shashwat%20Bajpai&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BITS%20%E2%80%99%2026&descAlignY=61" width="100%" alt="Shashwat Bajpai — header banner with name and tagline"/>
 
 <p>
   <a href="https://shashwat.bajpai.co.in"><img src="https://img.shields.io/badge/portfolio-shashwat.bajpai.co.in-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: shashwat.bajpai.co.in"/></a>
